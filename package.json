@@ -1,0 +1,28 @@
+{
+  "name": "@occultus/wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.18.2",
+    "@nolebase/vitepress-plugin-inline-link-preview": "^2.18.2",
+    "@types/node": "^26.1.0",
+    "markdown-it": "^14.3.0",
+    "vitepress": "2.0.0-alpha.17"
+  },
+  "dependencies": {
+    "@cssnr/vitepress-swiper": "^0.3.1",
+    "@miletorix/vitepress-gallery": "^1.0.1",
+    "node-fetch": "^3.3.2",
+    "vitepress-plugin-image-preview": "^0.1.3"
+  }
+}
