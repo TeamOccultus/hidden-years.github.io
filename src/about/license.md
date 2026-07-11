@@ -14,8 +14,7 @@
  
 **使用、修改或分发本项目，即视为已阅读并同意遵守 HY-OSS 许可证全部条款。**
 
-许可证原文：
-
+::: details 许可证原文
 ```plaintext
 HY-OSS License Agreement
 Copyright (c) 2025 Team Occultus
@@ -88,6 +87,8 @@ Licensor:
 
 END OF TERMS AND CONDITIONS
 ```
+:::
+
 
 ## 美术与音乐资源
 ### Minecraft Wiki
